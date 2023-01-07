@@ -1,0 +1,17 @@
+{
+  "transferencias": [
+    {
+      "valor": 10,
+      "destino": 10,
+      "data": "2023-01-07T01:16:16.395Z",
+      "id": 1
+    }
+  ],
+  "Usuario": [
+    {
+      "userName": "Kaio",
+      "password": "Senha",
+      "id": 1
+    }
+  ]
+}
